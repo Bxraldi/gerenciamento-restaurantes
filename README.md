@@ -4,7 +4,7 @@ Este é um projeto de sistema muito simples de gerenciamento de restaurantes des
 
 ## Descrição
 
-O Sistema de Gerenciamento de Restaurantes é uma aplicação de linha de comando que permite aos usuários registrar novos restaurantes, visualizar a lista de restaurantes registrados, ativar ou desativar o status de um restaurante e encerrar o sistema.
+O Sistema de Gerenciamento de Restaurantes permite aos usuários registrar novos restaurantes, visualizar a lista de restaurantes registrados, ativar ou desativar o status de um restaurante e encerrar o sistema.
 
 ## Funcionalidades
 
